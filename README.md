@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Anyarat</h1>
 <h3 align="center">Thank You for taking the time to view my GitHub Profile 😄</h3>
-
+** About Me: **
 - 🔭 I’m currently working on **Pentest tools**, **Automation Security**, **Backend**
 
 - 🌱 I’m currently preparing for **Security+ exam**
 
 - 📫 How to reach me **scutum12l@gmail.com**
+
+<img src = "https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width = 300px>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
