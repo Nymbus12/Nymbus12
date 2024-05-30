@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Anyarat</h1>
 <h3 align="center">Self-studying in Cybersecurity</h3>
 
-- 🔭 I’m currently working on **Pentest tools**
+- 🔭 I’m currently working on **Pentest tools**, **Automation Security**, **Backend**
 
-- 🌱 I’m currently learning **Security+**
+- 🌱 I’m currently preparing for **Security+ exam**
 
 - 📫 How to reach me **scutum12l@gmail.com**
 
