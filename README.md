@@ -8,7 +8,7 @@ About Me:
 
 - 📫 How to reach me **scutum12l@gmail.com**
 
-<img src = "https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width = 300px align="center">
+<a align="center"><img src = "https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width = 300px> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
