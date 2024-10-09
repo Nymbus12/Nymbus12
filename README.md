@@ -4,7 +4,7 @@
 About Me:
 - 🔭 I’m currently working on **Pentest tools**, **Automation Security**, **Backend**
 
-- 🌱 I’m currently preparing for **Security+ exam**
+- 🌱 <s> I’m currently preparing for **Security+ exam** </s> PASSED! (18/06/2024)
 
 - 📫 How to reach me **scutum12l@gmail.com**
 
