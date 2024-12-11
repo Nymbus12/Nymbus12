@@ -6,6 +6,8 @@ About Me:
 
 - 🌱 <s> I’m currently preparing for **Security+ exam** </s> PASSED! (18/06/2024)
 
+-  Chalenging with HTB Penetration Tester Study path (preparing for CPTS))
+
 - 📫 How to reach me **scutum12l@gmail.com**
 
 <a align="center"><img src = "https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width = 300px> </a>
