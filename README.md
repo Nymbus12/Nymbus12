@@ -39,10 +39,12 @@ About Me:
 <h3 align="left">Certificates:</h3>
 <p align="left"> <a href="https://www.credly.com/badges/db173dfa-ba3c-4b44-a438-9f64fa4b6545/public_url"> <img width="60px" height="60" align="center"
 src="https://github.com/Nymbus12/Nymbus12/assets/76111115/619dd86b-9946-4cfc-a84a-000247b69889"
-"> </a></p>
-<p align="left"> <a href="https://labs.cyberwarfare.live/credential/achievement/68b009cf2c48f7730479ed84"> <img width="60px" height="60" align="center"
+"> </a>
+<a href="https://labs.cyberwarfare.live/credential/achievement/68b009cf2c48f7730479ed84"> <img width="60px" height="60" align="center"
 src="https://cyberwarfare.live/wp-content/uploads/2023/05/certified-red-team-infra-developer-1024x1024.png"
-"> </a></p>
+"> </a>
+</p>
+
 
 
 
